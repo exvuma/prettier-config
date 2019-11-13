@@ -1,0 +1,8 @@
+{
+  "name": "@cloudflare/prettier-config",
+  "version": "0.0.1",
+  "description": "Prettier config for open source Cloudflare projects",
+  "main": "index.json",
+  "author": "Victoria",
+  "license": "MIT"
+}
